@@ -17,7 +17,7 @@
 - 失去记忆
 
 ### 计算题
-- 利用$B = \nabla \times A$证明$A$的规范性
+- 利用$B = \nabla \times A$证明 $A$ 的规范性
 - 一道边界条件非常奇怪的二维Laplace方程问题。在一个二维平面中有一个长方形边长分别为$a,b$。上下两条边的电势为0，左边的边$\frac{\partial \varphi}{\partial n} = 0$，右边的边$\varphi = U_0$。求长方形内电势
 - 一道给了$B,E$计算$E\times B$的题
 - 一道电偶极辐射的题目
